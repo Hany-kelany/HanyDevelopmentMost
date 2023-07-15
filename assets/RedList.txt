@@ -1,0 +1,18 @@
+Shout # صياح
+Crying, sobbing # بكاء
+Snake # ثعبان
+Vehicle # مركبه
+Animal # حيوان
+Boom # صوت انفجار
+Burst, pop # صوت انفجار
+Gunshot, gunfire # طلق ناري
+Mechanisms # ادوات للاعمال الكهربيه
+Livestock, farm animals, working animals # حيوانات مزرعه
+Car # سياره
+Canidae, dogs, wolves # كلاب,ذئاب
+Dog # كلب
+Police car (siren) # سياره شرطه
+Ambulance (siren) # سياره اسعاف
+Fire engine, fire truck (siren) # سياره اطفاء
+Alarm # انذار
+Glass # زجاج

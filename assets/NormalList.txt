@@ -1,0 +1,12 @@
+Liquid # سائل
+Speech # كلام
+Water # ماء
+Tools # ادوات للاعمال
+Clock # ساعه
+Water tap, faucet # صنبور مياه
+Sink (filling or washing) # مياه تملئ شئ
+Engine # محرك اله
+Cat # قطه
+Door # باب
+Bell # جرس
+Knock # تخبيط علي الباب
